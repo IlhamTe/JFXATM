@@ -1,3 +1,3 @@
 # JFXATM
-![alt text](3.PNG)
-![alt text](4.PNG)
+![alt text](src/tugasatm/3.PNG)
+![alt text](src/tugasatm/4.PNG)
