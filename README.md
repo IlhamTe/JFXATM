@@ -5,3 +5,7 @@
 #
 ![alt text](src/tugasatm/4.PNG)
 ## Jika sudah berhasil memasukkan PIN dengan benar maka anda akan dibawa menuju tampilan awal Menu ATM
+#
+#
+![alt text](src/tugasatm/5.PNG)
+## Namun jika Anda memasukkan PIN salah sebanyak 3 kali maka Anda akan keluar dari program secara otomatis
